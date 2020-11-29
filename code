@@ -54,7 +54,8 @@ CREDITS
 <!------------Smooth Scroll Script------------>
 
 <!--Custom Fonts-->
-<link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i|Lora:400,400i,700,700i|Titillium+Web:400,400i,600,600i,700,700i|Poppins:400,400i,500,500i,600,600i,700,700i&|Source+Sans+Pro:400,600,700,900|Inter:400,500,600,700|Noto+Sans+JP:400,500,700|Titillium+Web:400,400i,600,600i,700,700i|Roboto:400,400i,700,700i|Merriweather:400,400i&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lato:wght@400;700&family=Merriweather:wght@400;700&family=Noto+Sans+JP:wght@400;700&family=Open+Sans:wght@400;700&family=Playfair+Display&family=Poppins:wght@400;700&family=Roboto:wght@400;700&family=Titillium+Web:wght@400;700&display=swap" rel="stylesheet">
 <!--Custom Fonts-->
  
 <!--Homelinks Icons -->
