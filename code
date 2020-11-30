@@ -55,7 +55,7 @@ CREDITS
 
 <!--Custom Fonts-->
 <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lato:wght@400;700&family=Merriweather:wght@400;700&family=Noto+Sans+JP:wght@400;700&family=Open+Sans:wght@400;700&family=Playfair+Display&family=Poppins:wght@400;700&family=Roboto:wght@400;700&family=Titillium+Web:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lato:wght@400;700&family=Merriweather:wght@400;700&family=Noto+Sans+JP:wght@400;700&family=Open+Sans:wght@400;700&family=Playfair+Display&family=Poppins:wght@400;700&family=Roboto:wght@400;700&family=Epilogue:wght@400;700&display=swap" rel="stylesheet">
 <!--Custom Fonts-->
  
 <!--Homelinks Icons -->
@@ -101,12 +101,11 @@ CREDITS
 
 <meta name="select:Body Font" content="Open Sans" title="Open Sans">
 <meta name="select:Body Font" content="Lato" title="Lato">
-<meta name="select:Body Font" content="Titillium Web" title="Titillium Web">
+<meta name="select:Body Font" content="Epilogue" title="Epilogue">
 <meta name="select:Body Font" content="Noto Sans JP" title="Noto Sans JP">
 <meta name="select:Body Font" content="Roboto" title="Roboto">
 <meta name="select:Body Font" content="Inter" title="Inter">
 <meta name="select:Body Font" content="Poppins" title="Poppins">
-<meta name="select:Body Font" content="Titillium Web" title="Titillium Web">
 
 <meta name="select:font size" content="11" title="11px">
 <meta name="select:font size" content="12" title="12px">
